@@ -358,6 +358,7 @@ table {
 						flex-direction: column;
 					}
 					.logoYellowCircles {
+						width: 270px;
 						margin: 0 15px 15px 0;
 					}
 					.footerItemsTitle {
