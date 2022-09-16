@@ -357,9 +357,12 @@ table {
 					.nav {
 						flex-direction: column;
 					}
+					.logoBlackCircles {
+						width: 270px;
+					}
 					.logoYellowCircles {
 						width: 270px;
-						margin: 0 15px 15px 0;
+				                margin: 0 15px 15px 0;
 					}
 					.footerItemsTitle {
 						font-size: 20px;
